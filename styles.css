@@ -9,6 +9,8 @@ body {
   
   h2 {
     color: brown;
+    text-align: center;
+    
   }
   p {
     font-family: verdana;
