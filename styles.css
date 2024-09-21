@@ -5,7 +5,11 @@ body {
   h1 {
     color: rgb(0, 0, 0);
     text-align: center;
+    font-size: larger;
+    font-family: Verdana;
+    
   }
+
   
   h2 {
     color: brown;
@@ -14,6 +18,7 @@ body {
   }
   p {
     font-family: verdana;
-    font-size: 20px; 
+    font-size: 30px; 
+    
     
   }
